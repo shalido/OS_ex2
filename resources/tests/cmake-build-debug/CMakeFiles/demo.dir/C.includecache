@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/t8869361/CLionProjects/OS_ex2/resources/tests/demo_itimer.c
+stdio.h
+-
+signal.h
+-
+sys/time.h
+-
+
